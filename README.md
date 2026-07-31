@@ -543,3 +543,20 @@ I'm always interested in discussing:
 
 ---
 
+<!-- ====================================================== -->
+<!-- FOOTER -->
+<!-- ====================================================== -->
+
+<p align="center">
+
+### Thanks for visiting my profile! 👋
+
+If you like my work, consider ⭐ starring one of my repositories.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:3FB950&section=footer"/>
+
+</p>
