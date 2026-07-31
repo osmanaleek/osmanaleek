@@ -160,3 +160,101 @@ Connected device platforms featuring MQTT, telemetry, dashboards, automation, an
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!-- TECH STACK -->
+<!-- ====================================================== -->
+
+# 🛠️ Tech Stack
+
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### 💻 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,cs,express,nestjs"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
+
+</td>
+
+<td valign="top">
+
+### ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🔌 IoT
+
+- MQTT
+- REST APIs
+- WebSockets
+- Telemetry
+- Device Management
+- Real-time Monitoring
+
+</td>
+
+<td valign="top">
+
+### 🤖 AI & Productivity
+
+- OpenAI API
+- LangChain
+- LangGraph
+- AI Agents
+- Prompt Engineering
+- GitHub Copilot
+
+</td>
+
+</tr>
+
+</table>
+
+---
