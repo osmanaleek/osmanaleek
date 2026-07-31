@@ -39,3 +39,42 @@ Building scalable cloud-native applications, enterprise IoT platforms, and AI-po
 </p>
 
 ---
+<!-- ====================================================== -->
+<!-- ABOUT ME -->
+<!-- ====================================================== -->
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### Building Modern Software
+
+I'm a **Full Stack Engineer** with **8+ years of experience** building scalable web applications, enterprise platforms, and cloud-native solutions.
+
+My expertise spans the complete software development lifecycle—from designing user-friendly frontends to building secure APIs, cloud infrastructure, and IoT platforms.
+
+I enjoy solving complex engineering challenges and creating software that is reliable, maintainable, and ready for production.
+
+</td>
+
+<td width="35%" valign="top">
+
+### Quick Facts
+
+- 💼 8+ Years Experience
+- 🌍 Based in Pakistan
+- 🌐 Remote-First Engineer
+- ☁ Cloud-Native Development
+- 🔌 IoT Platform Development
+- 🤖 AI Integration
+- 🚀 Continuous Learner
+
+</td>
+
+</tr>
+</table>
+
+---
