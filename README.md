@@ -78,3 +78,85 @@ I enjoy solving complex engineering challenges and creating software that is rel
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!-- CURRENT FOCUS -->
+<!-- ====================================================== -->
+
+# 🚀 Current Focus
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+
+- Enterprise IoT Platforms
+- Cloud-native Web Applications
+- AI-powered Business Solutions
+- Microservices Architecture
+- Secure REST APIs
+- Real-time Monitoring Dashboards
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+
+- AI Agents & Autonomous Workflows
+- LangGraph & Multi-Agent Systems
+- Advanced AWS Services
+- Event-Driven Architecture
+- Kubernetes & Container Orchestration
+- Platform Engineering
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 What I Deliver
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐
+
+### Enterprise Web Apps
+
+Scalable web applications using **ASP.NET Core**, **React**, **Angular**, and **Node.js**.
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️
+
+### Cloud Solutions
+
+Modern cloud-native applications deployed on AWS with secure, scalable architecture.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔌
+
+### IoT Platforms
+
+Connected device platforms featuring MQTT, telemetry, dashboards, automation, and analytics.
+
+</td>
+
+</tr>
+
+</table>
+
+---
