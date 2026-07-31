@@ -377,3 +377,114 @@ Designing secure, scalable, and cloud-native IoT platforms that connect devices,
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!-- FLAGSHIP IOT PLATFORMS -->
+<!-- ====================================================== -->
+
+# 🚀 Flagship IoT Platforms
+
+These projects demonstrate my experience designing and building end-to-end IoT platforms—from embedded devices and real-time communication to cloud services, analytics dashboards, and enterprise-grade web applications.
+
+---
+
+## 🛣️ Road Health Monitoring Platform
+
+<p align="center">
+<img src="./assets/projects/road-dashboard.png" width="100%" alt="Road Health Monitoring Dashboard"/>
+</p>
+
+**Enterprise IoT platform for monitoring road conditions using real-time sensor data, machine learning, GIS visualization, and cloud-native services.**
+
+### ✨ Key Features
+
+- 📡 MPU6050 sensor data acquisition
+- 🤖 Machine Learning (RBF Support Vector Machine)
+- 🗺️ Live GIS visualization using Leaflet & OpenStreetMap
+- 📊 Interactive analytics dashboard
+- 🚧 Maintenance task management
+- 💬 Citizen feedback portal
+- 🔔 Smart alerts & notifications
+- ☁️ RESTful cloud backend
+
+### 🛠 Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Python`
+`Scikit-learn`
+`Leaflet`
+`OpenStreetMap`
+`IoT`
+`MQTT`
+
+<p align="center">
+<a href="https://github.com/osmanaleek/road-health-map">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+### 📸 Gallery
+
+<p align="center">
+
+<img src="./assets/projects/road-map.png" width="48%"/>
+
+<img src="./assets/projects/road-analytics.png" width="48%"/>
+
+<img src="./assets/projects/road-chart.png" width="48%"/>
+
+<img src="./assets/projects/road-maintenance.png" width="48%"/>
+
+</p>
+
+---
+
+## 📍 Asset Tracker Platform
+
+<p align="center">
+<img src="./assets/projects/asset-dashboard.jpg" width="100%" alt="Asset Tracker Dashboard"/>
+</p>
+
+**Enterprise GPS asset tracking platform providing real-time fleet visibility, movement history, and location intelligence.**
+
+### ✨ Key Features
+
+- 📡 ESP8266 + Neo-6M GPS integration
+- 🌍 Live GPS tracking
+- 🗺️ Route history visualization
+- 📈 Device monitoring dashboard
+- 📊 Location analytics
+- ☁️ Enterprise backend architecture
+
+### 🛠 Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`ESP8266`
+`GPS`
+`Leaflet`
+`OpenStreetMap`
+`IoT`
+
+<p align="center">
+<a href="https://github.com/osmanaleek/asset-tracker">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+### 📸 Gallery
+
+<p align="center">
+
+<img src="./assets/projects/asset-history.jpg" width="48%"/>
+
+<img src="./assets/projects/asset-location.jpg" width="48%"/>
+
+</p>
+
+---
