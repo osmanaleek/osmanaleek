@@ -258,3 +258,122 @@ Connected device platforms featuring MQTT, telemetry, dashboards, automation, an
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!-- IOT PLATFORM EXPERTISE -->
+<!-- ====================================================== -->
+
+# 🌐 IoT Platform Expertise
+
+<p align="center">
+Designing secure, scalable, and cloud-native IoT platforms that connect devices, process real-time data, and deliver actionable insights.
+</p>
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 📡 Connectivity
+
+- MQTT
+- HTTP / HTTPS
+- REST APIs
+- WebSockets
+- TCP/IP
+- TLS / SSL
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Device Management
+
+- Device Provisioning
+- Device Registration
+- Firmware Updates
+- Remote Configuration
+- Health Monitoring
+- Device Lifecycle
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 Data Processing
+
+- Real-Time Telemetry
+- Event Streaming
+- Data Validation
+- Rules Engine
+- Alerts & Notifications
+- Analytics Pipelines
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### ☁️ Cloud Integration
+
+- AWS
+- Azure
+- Serverless APIs
+- Cloud Storage
+- Message Queues
+- Microservices
+
+</td>
+
+<td valign="top">
+
+### 🔐 Security
+
+- JWT Authentication
+- OAuth 2.0
+- Role-Based Access Control
+- API Security
+- TLS Encryption
+- Secure Device Communication
+
+</td>
+
+<td valign="top">
+
+### 📈 Monitoring
+
+- Live Dashboards
+- Device Metrics
+- Logs
+- Alerts
+- Reporting
+- Performance Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3">
+
+### 🤖 AI Integration
+
+- OpenAI APIs
+- AI Assistants
+- Predictive Analytics
+- Intelligent Automation
+- Workflow Optimization
+- AI-Powered Insights
+
+</td>
+
+</tr>
+
+</table>
+
+---
