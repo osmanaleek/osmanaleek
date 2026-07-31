@@ -510,3 +510,36 @@ These projects demonstrate my experience designing and building end-to-end IoT p
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!-- CONTACT -->
+<!-- ====================================================== -->
+
+# 🤝 Let's Build Something Amazing
+
+I'm always interested in discussing:
+
+- 🚀 IoT Platforms
+- ☁️ Cloud Solutions
+- 📡 Connected Devices
+- 🤖 AI-powered Applications
+- 💼 Remote Contract Opportunities
+
+<p align="center">
+
+<a href="mailto:usmanalee.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://osmanaleek.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Upwork-Coming%20Soon-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
